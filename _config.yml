@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zhanglin Xie"
   avatar : "/assets/images/profilepicture.jpg"
-  bio    : "I am PhD student in Psycholinguistics at Université Paris Cité/Laboratoire de Linguistique Formelle"
+  bio    : "PhD student in Psycholinguistics at Université Paris Cité/Laboratoire de Linguistique Formelle"
   links:
    # - label: "Website"
       #icon: "fas fa-fw fa-link"
