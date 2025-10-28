@@ -4,6 +4,8 @@ title: "Talks & Posters"
 layout: page
 ---
 
+<div class="content-narrow talks-page">
+
 ## Conference Talks
 
 - **[How does the specificity of language structure in Chinese influence referential adjective redundancy?](/assets/talks/AREC2025.pdf)**  
@@ -55,3 +57,5 @@ layout: page
 
 - **[Intralingual overgeneralization in the acquisition of attributive adjective position in Teaching French as a Foreign Language](/assets/talks/LLFPhDDay2022.pdf)** *(presented in French)*  
   *LLF PhD Day 2022, Laboratoire de Linguistique Formelle — Paris, France* · **January 2022**
+
+  </div>
