@@ -7,6 +7,6 @@ The goal of my research is to understand the mechanisms underlying language comp
 
 My main interests center around the following thwo areas:
 
-- Acquisition of attributive adjective placement in L2 French 
-- Referential color and number redundancy 
+- 1. Referential color and number redundancy 
+- 2. Acquisition of attributive adjective placement in L2 French 
 
