@@ -5,8 +5,8 @@ classes: wide
 author_profile: true
 ---
 
-<div style="font-size: 0.9em;">
-
+<div class="compact-page" method="post">
+  
 The goal of my research is to understand the mechanisms underlying language comprehension and production in both a native language (L1) and a second language (L2).
 
 My main interests center around the following two areas:
