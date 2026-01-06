@@ -4,6 +4,8 @@ title: About
 
 layout: archive
 
+classes: wide
+
 author_profile: true
 
 ---
