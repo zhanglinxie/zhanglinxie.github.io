@@ -8,5 +8,21 @@ The goal of my research is to understand the mechanisms underlying language comp
 My main interests center around the following two areas:
 
 - **Referential color and number redundancy** I investigate how linguistic factors (e.g., word order) and cognitive factors (e.g., discriminability and display complexity) influence color and number redundancy in reference.
-- **Acquisition of attributive adjective placement in L2 French** I use experimental paradigms and statistical modeling to examine the strategies employed by L2 learners in adjective placement, including L1 transfer, overgeneralization of default postnominal placement in the target language and overgeneralization of short-before-long principle. 
+- **Acquisition of attributive adjective placement in L2 French** I use experimental paradigms and statistical modeling to examine the strategies employed by L2 learners in adjective placement, including L1 transfer, overgeneralization of default postnominal placement in the target language and overgeneralization of short-before-long principle.
+
+
+### Curriculum Vitae
+Below is my full CV. You can also [view it directly on Google Drive](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
+
+<iframe src="https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/preview" width="100%" height="800px" allow="autoplay"></iframe>
+
+<style>
+  /* Reduce side margins for the single layout */
+  .archive, .page, .single {
+    width: 95% !important;
+    max-width: 1200px !important;
+  }
+</style>
+
+
 
