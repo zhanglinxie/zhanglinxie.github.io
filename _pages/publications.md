@@ -1,6 +1,5 @@
 ---
 permalink: /publications/
-title: "Publications"
 classes: wide
 layout: collection
 ---
