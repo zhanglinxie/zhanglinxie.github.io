@@ -7,7 +7,7 @@ classes: wide
 
 <style>
   .page__content {
-    font-size: 1.2rem;
+    font-size: 2rem;
   }
 </style>
 
