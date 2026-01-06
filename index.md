@@ -1,6 +1,6 @@
 ---
 title: About
-layout: single
+layout: archive
 author_profile: true
 ---
 The goal of my research is to understand the mechanisms underlying language comprehension and production in both a native language (L1) and a second language (L2).
