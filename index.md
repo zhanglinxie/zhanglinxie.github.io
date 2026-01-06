@@ -11,18 +11,8 @@ My main interests center around the following two areas:
 - **Acquisition of attributive adjective placement in L2 French** I use experimental paradigms and statistical modeling to examine the strategies employed by L2 learners in adjective placement, including L1 transfer, overgeneralization of default postnominal placement in the target language and overgeneralization of short-before-long principle.
 
 
-### Curriculum Vitae
-Below is my full CV. You can also [view it directly on Google Drive](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
+You can find a comprehensive overview of my background, scholarship record and teaching in my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
 
-<iframe src="https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/preview" width="100%" height="800px" allow="autoplay"></iframe>
-
-<style>
-  /* Reduce side margins for the single layout */
-  .archive, .page, .single {
-    width: 95% !important;
-    max-width: 1200px !important;
-  }
-</style>
 
 
 
