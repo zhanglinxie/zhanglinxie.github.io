@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-layout: home
+layout: collection
 ---
 
 
