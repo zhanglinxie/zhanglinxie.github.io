@@ -2,12 +2,11 @@
 permalink: /publications/
 title: "Publications"
 layout: page
-classes: wide
 ---
 
 <style>
   .page__content {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 </style>
 
