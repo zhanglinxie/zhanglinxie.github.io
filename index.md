@@ -5,7 +5,6 @@ classes: wide
 author_profile: true
 ---
 
-<div class="compact-page" method="post">
   
 The goal of my research is to understand the mechanisms underlying language comprehension and production in both a native language (L1) and a second language (L2).
 
@@ -17,6 +16,5 @@ My main interests center around the following two areas:
 
 You can find a comprehensive overview of my background, scholarship record and teaching in my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
 
-</div>
 
 
