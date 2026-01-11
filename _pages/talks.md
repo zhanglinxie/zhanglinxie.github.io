@@ -5,4 +5,5 @@ layout: collection
 ---
 
 
-- sdf 
+- [Does word order predict redundant modifier
+production? A crosslinguistic perspective](/assets/TalksPosters/Amlap2024.pdf)
