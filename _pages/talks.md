@@ -1,8 +1,8 @@
 ---
 permalink: /talks/
 title: "Talks & Posters"
-layout: page
+layout: collection
 ---
 
 
-- sdf sdf 
+- sdf 
