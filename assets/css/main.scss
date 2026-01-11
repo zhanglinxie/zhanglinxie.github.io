@@ -1,13 +1,9 @@
-/* Custom style for smaller font and tight margins */
-.compact-page {
-  font-size: 0.85rem !important; /* Makes text smaller */
-  line-height: 1.4 !important;   /* Tightens space between lines */
-  
-  p, li {
-    margin-bottom: 0.5em !important; /* Reduces space between paragraphs/list items */
-  }
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
 
-  ol, ul {
-    margin-left: 1.5em !important; /* Smaller side margin for lists */
-  }
-}
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
