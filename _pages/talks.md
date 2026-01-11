@@ -6,4 +6,6 @@ layout: collection
 
 - [Does word order predict redundant modifier
 production? A crosslinguistic perspective](https://drive.google.com/file/d/1zN5PDtpFsjOQlOISpl31KMKSMk_uZafu/view).
-Xie, Z., Wickens-Walther, S. A., & Hemforth, B. (2024, September 5–7). Do crosslinguistic differences in redundant adjective production depend on word order? A crosslinguistic study [Conference presentation]. 30th Architectures and Mechanisms for Language Processing (AMLaP) Conference, Edinburgh, Scotland.
+Xie, Z., Wickens-Walther, S. A., & Hemforth, B. (2024, September 5–7).
+
+Do crosslinguistic differences in redundant adjective production depend on word order? A crosslinguistic study [Conference presentation]. 30th Architectures and Mechanisms for Language Processing (AMLaP) Conference, Edinburgh, Scotland.
