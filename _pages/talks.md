@@ -3,6 +3,7 @@ permalink: /talks/
 title: "Talks & Posters"
 layout: collection
 classes: wide
+entries_layout: list
 ---
 
 * **[Do crosslinguistic differences in redundant adjective production depend on word order? A crosslinguistic study](https://drive.google.com/file/d/1zN5PDtpFsjOQlOISpl31KMKSMk_uZafu/view)** Xie, Z., Wickens-Walther, S. A., & Hemforth, B.  
