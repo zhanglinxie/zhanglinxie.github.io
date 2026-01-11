@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /talks/
 classes: wide
 layout: collection
 entries_layout: list
