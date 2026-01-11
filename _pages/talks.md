@@ -5,6 +5,8 @@ layout: collection
 entries_layout: list
 ---
 
+Xie, Z., & Hemforth, B. (2025, September). *[Referential redundancy under complexity and ambiguity: Evidence from Chinese speakers and French speakers](https://drive.google.com/file/d/1LN0u645xBY5hEpPyNKgVVzQQfslWx4d3/view)* [Poster presentation]. 11th International Conference on Experimental Pragmatics (XPrag 2025), University of Cambridge, Cambridge, UK.
+
 Xie, Z., & Hemforth, B. (2025, April 17). *[Referential redundancy across languages](https://drive.google.com/file/d/1aFjRuj2u06x4j_SWj0VLl2aKsbJUOsDf/view)* [Oral presentation]. LingLunch Seminar Series, Laboratoire de Linguistique Formelle (LLF), Université Paris Cité, Paris, France.
 
 
