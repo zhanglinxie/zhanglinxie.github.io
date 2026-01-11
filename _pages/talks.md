@@ -14,5 +14,5 @@ Xie, Z., Hemforth, B., Saillard, C., & Copot, M. (2024, July 3–6). *[L2 French
 
 Xie, Z., & Hemforth, B. (2024, June). *[L2 French adjective production by L1 Chinese speakers: L2 overgeneralization and L1 transfer](https://drive.google.com/file/d/1F2uk0PmjTAFaNNi_i3eBqTPQH9VJevc4/view)* [Oral presentation]. LabexEFL Symposium, Université Paris Cité, Paris, France.
 
-Xie, Z., Hemforth, B., Saillard, C., & Copot, M. (2024, March). *[L2 acquisition of French adjective position: Transfer or overgeneralization?](https://drive.google.com/file/d/1n_dFfj9x5GECSSQ96e-dhs9eHIAsmRPT/view)* [Poster presentation]. Workshop Language Processing and Learning, University of Munich, Munich, Germany.
+Xie, Z., Hemforth, B., Saillard, C., & Copot, M. (2024, March). *[L2 acquisition of French adjective position by Chinese learners: Transfer or overgeneralization?](https://drive.google.com/file/d/1n_dFfj9x5GECSSQ96e-dhs9eHIAsmRPT/view)* [Poster presentation]. Workshop Language Processing and Learning, University of Munich, Munich, Germany.
 
