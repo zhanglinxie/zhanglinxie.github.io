@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-classes: wide smaller-text
+classes: wide 
 layout: collection
 entries_layout: list
 ---
