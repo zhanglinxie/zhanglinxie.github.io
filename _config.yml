@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zhanglin Xie
-email: zhanglin.xie@etu.u-paris.fr
+email: zhanglin.xie.pro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zhanglin Xie
 twitter_username: username
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Zhanglin Xie"
   avatar : "/assets/images/profilepicture.jpg"
-  bio    : "PhD in Linguistics, Université Paris Cité — defended December 19 2025"
+  bio    : "PhD in Linguistics, Université Paris Cité — defended December 19, 2025"
   links:
    # - label: "Website"
       #icon: "fas fa-fw fa-link"
