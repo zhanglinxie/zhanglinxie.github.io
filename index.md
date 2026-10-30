@@ -5,16 +5,18 @@ classes: wide
 author_profile: true
 ---
 
-  
-The goal of my research is to understand the mechanisms underlying language comprehension and production in both a native language (L1) and a second language (L2).
+My research focuses on the cognitive and linguistic mechanisms underlying language comprehension and production in both first (L1) and second (L2) languages.
 
-My main interests center around the following two areas:
+My research interests primarily encompass three areas:
 
-1. **Referential color and number redundancy** I investigate how linguistic factors (e.g., word order) and cognitive factors (e.g., discriminability and display complexity) influence color and number redundancy in reference.
+1. **Referential color and number redundancy.** I investigate how linguistic factors (e.g., word order) and cognitive factors (e.g., discriminability and visual complexity) influence the production of redundant color and number modifiers in referential communication.
 
-2. **Acquisition of attributive adjective placement in L2 French** I use experimental paradigms and statistical modeling to examine the strategies employed by L2 learners in adjective placement, including L1 transfer, overgeneralization of default postnominal placement in the target language and overgeneralization of short-before-long principle.
+2. **Acquisition of attributive adjective placement in L2 French.** Using experimental methods and statistical modeling, I examine the strategies employed by L2 learners in acquiring French adjective placement, with a particular focus on L1 transfer, overgeneralization of the default postnominal position, and the short-before-long principle.
 
-You can find a comprehensive overview of my background, scholarship record and teaching in my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
+3. **Pronoun resolution.** I am currently investigating how verb semantics influence pronoun interpretation in Mandarin Chinese, using behavioral methods and with plans to incorporate electrophysiological (EEG/ERP) methods. I aim to extend this research to cross-linguistic comparisons, particularly involving English and French, and to second language acquisition. I also plan to compare human pronoun processing with the predictions and behavior of large language models (LLMs).
+
+For more information about my academic background, publications, and teaching experience, please see my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
+
 
 
 
