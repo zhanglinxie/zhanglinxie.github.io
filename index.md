@@ -15,7 +15,7 @@ My research interests primarily encompass three areas:
 
 3. **Pronoun resolution.** I am currently investigating how verb semantics influence pronoun interpretation in Mandarin Chinese, using behavioral methods and with plans to incorporate electrophysiological (EEG/ERP) methods. I aim to extend this research to cross-linguistic comparisons, particularly involving English and French, and to second language acquisition. I also plan to compare human pronoun processing with the predictions and behavior of large language models (LLMs).
 
-For more information about my academic background, publications, and teaching experience, please see my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view).
+For more information about my academic background, publications, and teaching experience, please see my [CV](https://drive.google.com/file/d/1fCTX2CPdxPjeQevjRVX7xpJXIxwIYCWL/view?usp=sharing).
 
 
 
