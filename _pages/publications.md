@@ -1,7 +1,10 @@
 ---
+title: Publications
 permalink: /publications/
 classes: wide
 layout: single
+header:
+  show: false
 ---
 
 ## Peer-Reviewed Journal Articles
